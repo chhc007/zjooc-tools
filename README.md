@@ -1,5 +1,8 @@
 # zjooc-tools
 A tool to help you with your classes in zjooc
+网站网课作业小工具
+
+![Alt Text](20210422165230.png)
 
 ***使用说明***
 本程序直接打开即可，然后在登入区填写账号密码，软件就会自动登入且保存cookie用于后续操作。
